@@ -1,8 +1,8 @@
 # Домашнее задание к занятию "10. Geolocation, Notification, Media"
 
-![CI](https://github.com/unker/ahj-homeworks-timeline/actions/workflows/web.yml/badge.svg)
+![CI](https://github.com/marusinaann/ajs-time/actions/workflows/web.yml/badge.svg)
 
-https://unker.github.io/ahj-homeworks-timeline/
+https://marusinaann.github.io/ajs-time/
 
 
 **Важно**: в рамках этого задания вы будете разрабатывать **один проект**, в который добавляется новая функциональность. Поэтому все три задачи нужно делать в одном репозитории (не забудьте опубликовать проект на GitHub Pages).
